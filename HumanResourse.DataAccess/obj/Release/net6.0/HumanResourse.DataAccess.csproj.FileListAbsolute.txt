@@ -1,0 +1,17 @@
+C:\Users\ayseo\OneDrive\Masaüstü\PROJEREVİZE\HMR_Project\HMRProject\HumanResourse\HumanResourse.DataAccess\bin\Release\net6.0\HumanResourse.DataAccess.deps.json
+C:\Users\ayseo\OneDrive\Masaüstü\PROJEREVİZE\HMR_Project\HMRProject\HumanResourse\HumanResourse.DataAccess\bin\Release\net6.0\HumanResourse.DataAccess.runtimeconfig.json
+C:\Users\ayseo\OneDrive\Masaüstü\PROJEREVİZE\HMR_Project\HMRProject\HumanResourse\HumanResourse.DataAccess\bin\Release\net6.0\HumanResourse.DataAccess.dll
+C:\Users\ayseo\OneDrive\Masaüstü\PROJEREVİZE\HMR_Project\HMRProject\HumanResourse\HumanResourse.DataAccess\bin\Release\net6.0\HumanResourse.DataAccess.pdb
+C:\Users\ayseo\OneDrive\Masaüstü\PROJEREVİZE\HMR_Project\HMRProject\HumanResourse\HumanResourse.DataAccess\bin\Release\net6.0\HumanResourse.Entitiy.dll
+C:\Users\ayseo\OneDrive\Masaüstü\PROJEREVİZE\HMR_Project\HMRProject\HumanResourse\HumanResourse.DataAccess\bin\Release\net6.0\HumanResourse.Entitiy.pdb
+C:\Users\ayseo\OneDrive\Masaüstü\PROJEREVİZE\HMR_Project\HMRProject\HumanResourse\HumanResourse.DataAccess\obj\Release\net6.0\HumanResourse.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ayseo\OneDrive\Masaüstü\PROJEREVİZE\HMR_Project\HMRProject\HumanResourse\HumanResourse.DataAccess\obj\Release\net6.0\HumanResourse.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayseo\OneDrive\Masaüstü\PROJEREVİZE\HMR_Project\HMRProject\HumanResourse\HumanResourse.DataAccess\obj\Release\net6.0\HumanResourse.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ayseo\OneDrive\Masaüstü\PROJEREVİZE\HMR_Project\HMRProject\HumanResourse\HumanResourse.DataAccess\obj\Release\net6.0\HumanResourse.DataAccess.AssemblyInfo.cs
+C:\Users\ayseo\OneDrive\Masaüstü\PROJEREVİZE\HMR_Project\HMRProject\HumanResourse\HumanResourse.DataAccess\obj\Release\net6.0\HumanResourse.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ayseo\OneDrive\Masaüstü\PROJEREVİZE\HMR_Project\HMRProject\HumanResourse\HumanResourse.DataAccess\obj\Release\net6.0\HumanResourse.DataAccess.csproj.CopyComplete
+C:\Users\ayseo\OneDrive\Masaüstü\PROJEREVİZE\HMR_Project\HMRProject\HumanResourse\HumanResourse.DataAccess\obj\Release\net6.0\HumanResourse.DataAccess.dll
+C:\Users\ayseo\OneDrive\Masaüstü\PROJEREVİZE\HMR_Project\HMRProject\HumanResourse\HumanResourse.DataAccess\obj\Release\net6.0\refint\HumanResourse.DataAccess.dll
+C:\Users\ayseo\OneDrive\Masaüstü\PROJEREVİZE\HMR_Project\HMRProject\HumanResourse\HumanResourse.DataAccess\obj\Release\net6.0\HumanResourse.DataAccess.pdb
+C:\Users\ayseo\OneDrive\Masaüstü\PROJEREVİZE\HMR_Project\HMRProject\HumanResourse\HumanResourse.DataAccess\obj\Release\net6.0\HumanResourse.DataAccess.genruntimeconfig.cache
+C:\Users\ayseo\OneDrive\Masaüstü\PROJEREVİZE\HMR_Project\HMRProject\HumanResourse\HumanResourse.DataAccess\obj\Release\net6.0\ref\HumanResourse.DataAccess.dll
