@@ -2,12 +2,12 @@
 
 Projede İK çalışanı(yönetici) ve personel rolleri bulunmaktadır.
 
-*Yönetici Yetkileri: 
-*Sisteme yeni roller ekleyebilir. 
+<b> Yönetici Yetkileri: </b> 
+* Sisteme yeni roller ekleyebilir. 
 * Yeni personel girişi yapar.
-Personelleri listeler, günceller, siler.
-Personellerden gelen izin, avans ve harcama taleplerini görür.
-Bu talepleri reddetme veya onaylama yetkisi vardır. 
+* Personelleri listeler, günceller, siler.
+* Personellerden gelen izin, avans ve harcama taleplerini görür.
+* Bu talepleri reddetme veya onaylama yetkisi vardır. 
 
 Personel Yetkileri:
 Sistemde kendi bilgilerini görebilir, bazılarını güncelleyebilir.
