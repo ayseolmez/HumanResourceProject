@@ -1,8 +1,19 @@
 # HumanResourceProject
-Proje bir şirketin çalışanları ile ilgili işlemleri yaptığı bir programdır.
-Programı kullanan(İK personeli) kişiler için CRUD işlemleri yapar. 
-İzin, harcama, avans taleplerini görüntüler, onaylar veya reddeder. 
-Programın diğer kullanıcısı(şirket personeli) kendi bilgilerini görüntüler, profilini düzenleyebilir.
-Yönetimden izin, harcama ve avans talep edebilir. Tüm bu taleplerin arkasında belirli kurallar ve validasyonlar vardır. 
-Kullanılan Teknolojiler: MVC ASP .Net CORE (.Net6), Identity, Inversion Of Control, 
-Repository Design Pattern, Code First, NTier Arch, TFS Azure Cloud, Azure DevOps,  EF-Core, Bootstrap5
+
+Projede İK çalışanı(yönetici) ve personel rolleri bulunmaktadır.
+
+Yönetici Yetkileri: 
+Sisteme yeni roller ekleyebilir. 
+Yeni personel girişi yapar.
+Personelleri listeler, günceller, siler.
+Personellerden gelen izin, avans ve harcama taleplerini görür.
+Bu talepleri reddetme veya onaylama yetkisi vardır. 
+
+Personel Yetkileri:
+Sistemde kendi bilgilerini görebilir, bazılarını güncelleyebilir.
+İzin talep edebilir. (Doğum izni, yıllık izin, mazeret izni vb..) Tüm bu izin tipleri için validasyonlar vardır.
+Avans talep edebilir.
+Harcama bildirimi yapabilir.
+
+<b>Kullanılan Teknolojiler:</b> MVC ASP .Net CORE (.Net6), Identity, Inversion Of Control, 
+Repository Design Pattern, Code First, NTier Arch, TFS, Azure Cloud, Azure DevOps,  EF-Core, Bootstrap5
