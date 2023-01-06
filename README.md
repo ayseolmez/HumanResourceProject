@@ -1,6 +1,6 @@
 # HumanResourceProject
 
-Projede İK çalışanı(yönetici) ve personel rolleri bulunmaktadır.
+Projede İK çalışanı (yönetici) ve personel rolleri bulunmaktadır.
 
 <b> Yönetici Yetkileri: </b> 
 * Sisteme yeni roller ekleyebilir. 
